@@ -13,8 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I don't think anything is funny.
 -->
 
+<!--
+;(
 ![Toni's GitHub stats](https://github-readme-stats.vercel.app/api?username=utoni&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utoni&langs_count=8&exclude_repo=mingw-w64-ddk-template&theme=merko)
+-->
 
 [deadc0de.dev](https://deadc0de.dev)
 
