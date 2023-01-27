@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utoni&langs_count=8&exclude_repo=mingw-w64-ddk-template&theme=merko)
 -->
 
-<iframe style="width: 100vw; height: 100vh; border: unset; position: fixed;" src="https://deadc0de.dev/skyline/?forceFullscreen=true"></iframe>
-
 [deadc0de.dev](https://deadc0de.dev)
 
 [git.impl.cc](https://git.impl.cc)
