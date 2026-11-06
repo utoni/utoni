@@ -19,10 +19,18 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utoni&langs_count=8&exclude_repo=mingw-w64-ddk-template&theme=merko)
 -->
 
-[deadc0de.dev](https://deadc0de.dev)
+[deadc0de.dev](https://deadc0de.dev) | [git.impl.cc](https://git.impl.cc) | [github-avatar-ukrainify](https://github.com/utoni/github-avatar-ukrainify.git) | [gists](https://gist.github.com/utoni)
 
-[git.impl.cc](https://git.impl.cc)
+[![Views](https://stats.impl.cc/badge/views.svg?period=30d)](https://stats.impl.cc/badge/views.svg)
+[![Views](https://stats.impl.cc/badge/clones.svg?period=30d)](https://stats.impl.cc/badge/clones.svg)
+[![Views](https://stats.impl.cc/badge/stars.svg)](https://stats.impl.cc/badge/stars.svg)
 
-[github-avatar-ukrainify](https://github.com/utoni/github-avatar-ukrainify.git)
+<!--
+[![Views](https://stats.impl.cc/card/stars.svg)](https://stats.impl.cc/card/stars.svg)
+[![Views](https://stats.impl.cc/card/forks.svg)](https://stats.impl.cc/card/forks.svg)
+[![Views](https://stats.impl.cc/card/clones.svg)](https://stats.impl.cc/card/clones.svg)
+[![Views](https://stats.impl.cc/card/views.svg)](https://stats.impl.cc/card/views.svg)
+-->
 
-[gists](https://gist.github.com/utoni)
+<img src="https://stats.impl.cc/card/stars.svg" style="width: 50%" /><img src="https://stats.impl.cc/card/forks.svg" style="width: 50%" />
+<img src="https://stats.impl.cc/card/clones.svg" style="width: 50%" /><img src="https://stats.impl.cc/card/views.svg" style="width: 50%" />
